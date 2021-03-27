@@ -1,9 +1,12 @@
-### Hi there 👋
+### ¡Hola! Soy María, Junior Front-End Developer. 👋
 
-<!--
-**mariavirum/mariavirum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ ¡¡BIENVENID@S a mi perfil de GitHub!! ✨
 
-Here are some ideas to get you started:
+
+! [Welcome Gif] (  https://www.freepik.es/vector-gratis/ilustracion-concepto-abstracto-aplicacion-sola-pagina-pagina-web-spa-tendencia-desarrollo-web-aplicacion-dentro-navegador-pagina-reescritura-dinamica-creacion-sitio-web-receptivo_10782838.htm#page=1&query=developer&position=26)
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋
