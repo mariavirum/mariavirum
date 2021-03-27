@@ -1,17 +1,17 @@
+![](/images/dog3.gif)
+
 # ✨ ¡¡BIENVENID@S a mi perfil de GitHub!! ✨
 
-## _Soy María Virumbrales_ 👋
+## **Soy María Virumbrales** 👋
 
-*👩🏻‍💻 Junior Front End Developer formada en @ [Adalab](https://adalab.es/). </br>
-*🏡 Madrid, Spain. </br>
-\*🔍 Estoy buscando trabajo como Junior Front-End Developer.
-
-![](/images/dog3.gif)
+👩🏻‍💻 Junior Front End Developer formada en @ [Adalab](https://adalab.es/). </br>
+🏡 Madrid, Spain. </br>
+🔍 Estoy buscando trabajo como Junior Front-End Developer.
 
 # Formación:
 
-ADALAB - 2021
-Programa integral de formación que aporta los conocimientos y herramientas para el desarrollo web front-end:
+ADALAB 2021 - Programa integral de formación que aporta los conocimientos y herramientas para el desarrollo web front-end:
+
 -Maquetación: HTML5, CSS3, Flexbox, Grid, Diseño Responsive y maquetación por componentes.
 
 -JavaScript y servicios web (APIs) de terceros.
