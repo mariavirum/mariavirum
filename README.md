@@ -1,8 +1,8 @@
-![](/images/dog3.gif)
-
 # ✨ ¡¡BIENVENID@S a mi perfil de GitHub!! ✨
 
-## **Soy María Virumbrales** 👋
+![](/images/dog3.gif)
+
+# **Soy María Virumbrales** 👋
 
 👩🏻‍💻 Junior Front End Developer formada en @ [Adalab](https://adalab.es/). </br>
 🏡 Madrid, Spain. </br>
