@@ -2,11 +2,7 @@
 
 ## ✨ ¡¡BIENVENID@S a mi perfil de GitHub!! ✨
 
-<img align="right" src="https://www.freepik.es/vector-gratis/diseno-plano-programador-mujer-codificacion_5359376.htm#page=6&query=woman+developer&position=17">
-
-
-
-
+An image: ![Imagen](/images/developers.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,5 +12,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-👋
+  -->
+  👋
