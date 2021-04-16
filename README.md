@@ -28,10 +28,12 @@
 
 # Sobre mí:
 
-🎼 Cantante y Actriz de Teatro Musical.
+Disfrutando de mi camino en el mundo de la Programación, me encuentro buscando nuevas metas y oportunidades.
 
-Durante 15 años los escenarios me han aportado Disciplina, Superación, Empatía y mucha Satisfacción.
+Diplomada en Magisterio Musical y Logopedia.
 
-Ahora comienzo un nuevo camino en el mundo de la Programación buscando nuevas metas y oportunidades.
+Durante 13 años mi prosefión ha sido Cantante y Actriz de Teatro Musical.
+
+Los escenarios me han aportado Disciplina, Superación, Compromiso y Empatía. 🎼 
 
 Disfruto del trabajo en equipo y de aprender cada día un poco más. 😊
