@@ -35,7 +35,7 @@
 
 Diplomada en Magisterio Musical y Logopedia.
 
-Durante 13 años mi prosefión ha sido Cantante y Actriz de Teatro Musical.
+Durante 13 años mi profesión ha sido Cantante y Actriz de Teatro Musical.
 
 Los escenarios me han aportado Disciplina, Superación, Compromiso y Empatía. 🎼 
 
