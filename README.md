@@ -6,7 +6,6 @@
 
 👩🏻‍💻 Junior Front End Developer formada en @ [Adalab](https://adalab.es/). </br>
 🏡 Madrid, España. </br>
-🔍 Buscando trabajo como Junior Front-End Developer.
 
 
 # Formación:
